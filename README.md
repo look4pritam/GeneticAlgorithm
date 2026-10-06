@@ -1,4 +1,4 @@
-# GeneticAlgorithm
+# Genetic Algorithms
 
 ## References
 - [YouTube - Genetic Algorithms Explained By Example](https://www.youtube.com/watch?v=uQj5UNhCPuo)
